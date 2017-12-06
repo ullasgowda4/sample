@@ -1,3 +1,7 @@
 HI i am a sample text file
 
+<<<<<<< 64ae2683d8cebea39f023d0efe1eb0d73210f64a
 Edited from editor online
+=======
+editing the sample file
+>>>>>>> adding sample and another text files
