@@ -1,1 +1,3 @@
 this is one more text file
+
+Editing from a cloned project .
