@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 <<<<<<< 64ae2683d8cebea39f023d0efe1eb0d73210f64a
 this is one more text file
 =======
 i am another sample text file.
 >>>>>>> adding sample and another text files
+=======
+i am another sample text file.
+>>>>>>> f53f38a2e7fd268e6d2c1387451ccc183119a311

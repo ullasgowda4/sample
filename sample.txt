@@ -1,7 +1,11 @@
 HI i am a sample text file
 
+<<<<<<< HEAD
 <<<<<<< 64ae2683d8cebea39f023d0efe1eb0d73210f64a
 Edited from editor online
 =======
 editing the sample file
 >>>>>>> adding sample and another text files
+=======
+editing the sample file
+>>>>>>> f53f38a2e7fd268e6d2c1387451ccc183119a311
